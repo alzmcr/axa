@@ -1,0 +1,6 @@
+*.pyc
+data/
+drivers/
+logs/
+submissions/
+.idea
